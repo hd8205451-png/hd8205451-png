@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -359,7 +358,7 @@
             <div class="card">
                 <h2>🛡️ Администрация</h2>
                 <div class="admin-list">
-                    <a href="https://t.me/username1" target="_blank" class="admin-card" onclick="haptic()">
+                    <a href="https://t.me/@DesMund0" target="_blank" class="admin-card" onclick="haptic()">
                         <img src="https://i.pravatar.cc/150?img=12" alt="Админ 1" class="admin-avatar">
                         <div class="admin-info">
                             <h4>DesMundo (Основатель)</h4>
@@ -367,7 +366,7 @@
                             <span class="admin-role">Владелец</span>
                         </div>
                     </a>
-                    <a href="https://t.me/DesMund0" target="_blank" class="admin-card" onclick="haptic()">
+                    <a href="https://t.me/k1tsune9" target="_blank" class="admin-card" onclick="haptic()">
                         <img src="https://i.pravatar.cc/150?img=5" alt="Админ 2" class="admin-avatar">
                         <div class="admin-info">
                             <h4>𝓡𝓲𝓷 · 天狐 🦊</h4>
@@ -395,7 +394,7 @@
 
                 <div id="promoResult" class="promo-result">
                     <p style="color: var(--success-color); margin-bottom: 15px;">✅ Код верный! Держите ссылку:</p>
-                    <a href="https://t.me/+Yb2V-W9GtRwwMWVi" target="_blank" class="btn btn-success" onclick="haptic('heavy')">
+                    <a href="https://t.me/+U0b2UZstMRBlYjli" target="_blank" class="btn btn-success" onclick="haptic('heavy')">
                         🔗 Вступить в закрытый чат
                     </a>
                 </div>
