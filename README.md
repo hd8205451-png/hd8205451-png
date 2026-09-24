@@ -362,16 +362,16 @@
                     <a href="https://t.me/username1" target="_blank" class="admin-card" onclick="haptic()">
                         <img src="https://i.pravatar.cc/150?img=12" alt="Админ 1" class="admin-avatar">
                         <div class="admin-info">
-                            <h4>Иван (Основатель)</h4>
-                            <p>@username1</p>
+                            <h4>DesMundo (Основатель)</h4>
+                            <p>@DesMund0</p>
                             <span class="admin-role">Владелец</span>
                         </div>
                     </a>
-                    <a href="https://t.me/username2" target="_blank" class="admin-card" onclick="haptic()">
+                    <a href="https://t.me/DesMund0" target="_blank" class="admin-card" onclick="haptic()">
                         <img src="https://i.pravatar.cc/150?img=5" alt="Админ 2" class="admin-avatar">
                         <div class="admin-info">
-                            <h4>Анна</h4>
-                            <p>@username2</p>
+                            <h4>𝓡𝓲𝓷 · 天狐 🦊</h4>
+                            <p>@K1tsune9</p>
                             <span class="admin-role">Гл. Модератор</span>
                         </div>
                     </a>
